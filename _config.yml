@@ -23,7 +23,7 @@ repository               : "jianzhuwang/jianzhuwang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://s21.ax1x.com/2025/09/20/pV43FNn.png"
   name             : "Jianzhu Wang"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
